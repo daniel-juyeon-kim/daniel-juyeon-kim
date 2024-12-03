@@ -1,4 +1,4 @@
-## About 👋
+### About 👋
 
 안녕하세요 백엔드 개발자 김주연입니다. Node.js, JavaScript, TypeScript를 주력으로 사용합니다.
 
